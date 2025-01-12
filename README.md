@@ -13,3 +13,5 @@
 下記、構想図（素人なんでよくわかりませんが、至らない部分は、Discordサーバーにて、博識な方は、質問、意見等お願いします。）
 ![image](https://github.com/user-attachments/assets/797c68e6-5b65-48ea-b311-659dd3dbdedb)
 
+## 草案の提出について
+forkしてissueやprを出してくれれば。
